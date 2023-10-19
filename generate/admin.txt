@@ -1,0 +1,4 @@
+! https://admin.microsoft.com
+admin.microsoft.com##.root-610.ms-Button--primary.ms-Button
+admin.microsoft.com##.minimize-icon > .minStateIcon-745
+admin.microsoft.com##.minimize-icon

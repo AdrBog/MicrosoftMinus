@@ -1,0 +1,12 @@
+! https://learn.microsoft.com
+learn.microsoft.com##.display-block-desktop.display-none.is-4-desktop.column.right-container
+learn.microsoft.com###banner-holder
+learn.microsoft.com###cookie-consent-holder
+learn.microsoft.com##.nav-bar-nav-list
+learn.microsoft.com##.position-relative.feedback-section
+learn.microsoft.com##.has-padding.uhf-container.footer-layout
+learn.microsoft.com##.is-hidden-mobile.border-top.nav-bar
+learn.microsoft.com##.is-one-quarter-desktop.is-one-third-tablet.column.is-hidden-mobile.left-container
+learn.microsoft.com##.not-authenticated.auth-status-determined.docs-sign-in
+learn.microsoft.com###user-feedback > .button-primary.button-clear.button-sm.button
+learn.microsoft.com##.display-none-print.contributors-holder

@@ -1,0 +1,16 @@
+! Any forum Microsoft have
+*##.lia-quilt-column-side-content.lia-quilt-column-right.lia-quilt-column-08.lia-quilt-column
+*##.bapi-top-bar__menu
+*##.bapi-top-bar__menu--justify-flex-end.bapi-top-bar__menu
+*##[class*="accepted-solutions"]
+*##.lia-discussion-page-sub-section-header.lia-forum-topic-page-solution-count.lia-text
+*##.lia-component-solution-list
+*##.bapi-common-footer
+*###actionMenuDropDown > .lia-menu-navigation > .dropdown-default-item > .lia-link-navigation.lia-js-click-menu.default-menu-option.lia-js-menu-opener
+*##.lia-component-menu-bar.top-block.lia-menu-bar-top.lia-menu-bar
+*##.lia-component-quilt-header.lia-quilt-layout-header.lia-quilt-header.lia-quilt
+*##.lia-component-topic-message.lia-forum-topic-page-gte-5-pager.lia-menu-bar-bottom.lia-menu-bar
+*##.all-user-tags
+*##.LabelsList > .lia-list-standard-inline
+*##.lia-user-rank-icon
+*##.lia-message-author-rank

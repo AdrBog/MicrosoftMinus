@@ -1,0 +1,33 @@
+! https://outlook.office.com
+outlook.office.com##.o365sx-button.R3CoF.Wpyud
+outlook.office.com##.nUPgy
+outlook.office.com###owaNoteFeedButton
+outlook.office.com###tips
+outlook.office.com###\31 1000-wrapper > .root-181.ms-Button
+outlook.office.com##.Bt2YR > .root-160.ms-TooltipHost
+outlook.office.com##.o365sx-waffle.o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
+outlook.office.com##.f1xqy1su.f1q3txrk.fzpis3h.f1o7qkhw.fz7cnr3.fvi4nxw.f1u8i3ug.f11uhznr.figsok6.fhovq9v.f1couhl3.feqmc2u.fbhnoac.f1rvrf73.fqdk4by.f1358rze.fre7gi1.f44c6la.f12clzc2.f15vdbe4.fdghr9.fwiuce9.f1sbtcvk.___1ggvegx.rlr4yyk.fui-Button
+outlook.office.com###\30 d5c91ee-5be2-4b79-81ed-23e6c4580427
+outlook.office.com###d7a12bea-e4fe-49a7-8cd1-c2e6d53722a6
+outlook.office.com##.splitButtonMenuButton-219.splitMenuButton.ms-Button
+outlook.office.com##.splitButtonDivider-195
+outlook.office.com##.lT19A
+outlook.office.com##.root-457.sfeYq._6GAs.ms-Button--hasMenu.ms-Button--icon.ms-Button
+outlook.office.com##.root-415.A3pLm.G_gb6.ms-Button--default.ms-Button
+outlook.office.com##.hpyHhmSe9hmk5gopLr9a5Q\=\=
+outlook.office.com###Time
+outlook.office.com##.root-169
+outlook.office.com##.obf-Visible.obf-Toast
+outlook.office.com##.root-162.ms-Button--commandBar.Se2hy.ms-Button
+outlook.office.com##.root-575.KYvtj.ms-Button--command.ms-Button--action.ms-Button
+! And this is how you name classes kids
+outlook.office.com##.SFJ5T
+outlook.office.com##.ptiWl
+outlook.office.com##.X7l1H
+outlook.office.com##.asIIX
+outlook.office.com##.YycMs
+outlook.office.com##.xLt1X
+outlook.office.com##.DPSja
+outlook.office.com##.AZjDG
+outlook.office.com##.PtVAk.th6py
+outlook.office.com##.yI80M

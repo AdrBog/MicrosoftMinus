@@ -1,0 +1,18 @@
+! https://*.powerapps.com
+powerapps.com##.css-284.ms-Stack > .css-296.ms-StackItem > .root-305.ms-Link
+powerapps.com##.css-389.ms-Stack > .css-401.ms-StackItem > .root-410.ms-Link
+powerapps.com##[class*="homePageHero-" i]
+powerapps.com##[class*="homePageLearning-" i]
+powerapps.com##.root-292.ms-Button--icon.ms-Button
+powerapps.com##.root-397.ms-Button--icon.ms-Button
+powerapps.com##.button-490.o365sx-button
+powerapps.com###ppuxOfficeHeaderHelp_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
+powerapps.com##.o365sx-button.o365sx-waffle.clgiLVKPzugZZns0LiPTqw\=\=
+powerapps.com##[class*="tabHelp-" i]
+powerapps.com###appmagic-control-sidebar-ideas-tab
+powerapps.com##.collapsedContainer_1ndpwxc
+powerapps.com##.footerSection-362 > button.item-370.ms-Button--command.ms-Button--action.ms-Button > .flexContainer-371.ms-Button-flexContainer
+powerapps.com##.root-328.commandBar_comments.ms-CommandBarItem-link.ms-Button--commandBar.ms-Button
+powerapps.com##.root-350.commandBar_share.ms-CommandBarItem-link.ms-Button--commandBar.ms-Button
+powerapps.com##.root-328.commandBar_appChecker.ms-CommandBarItem-link.ms-Button--commandBar.ms-Buttonn
+powerapps.com###control-sidebar-header-tooltip > div

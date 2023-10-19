@@ -1,0 +1,3 @@
+! https://teams.microsoft.com
+teams.microsoft.com##.toast-bottom-right
+teams.microsoft.com##app-bar-help-button

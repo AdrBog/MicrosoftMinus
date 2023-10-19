@@ -1,0 +1,9 @@
+! https://make.powerautomate.com
+make.powerautomate.com###O365_MainLink_Help
+make.powerautomate.com##.root-418.ms-Link
+make.powerautomate.com##[class*="fl-ExploreCollections"]
+make.powerautomate.com##[class*="fl-BlogCollections"]
+make.powerautomate.com##[class*="fl-footer"]
+make.powerautomate.com##[class*="fl-LearnCollections"]
+make.powerautomate.com##.root-322
+make.powerautomate.com##.root-239.ms-Button--icon.ms-Button

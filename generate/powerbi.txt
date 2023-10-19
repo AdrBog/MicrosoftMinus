@@ -1,0 +1,13 @@
+! https://app.powerbi.com
+app.powerbi.com##.search-box
+app.powerbi.com##trident-help-menu-button
+app.powerbi.com##trident-feedback-menu-button.ng-star-inserted
+app.powerbi.com##.o365sx-button.o365sx-waffle._2sngRVSfiZnZSR2_elJ0bG
+app.powerbi.com##.ng-star-inserted.learn.navbar-item
+app.powerbi.com##trident-notifications-button.ng-star-inserted
+app.powerbi.com##.navbar-label-width.ng-star-inserted.navbar-container
+app.powerbi.com##._3w_a8QA7456jjtTY2TYDlZ.o365cs-base
+app.powerbi.com##._1LqwPht968HBP6AHLHy1eC.WZU7V9oIIK8RVJ365jJHp.o365cs-base
+app.powerbi.com##.o365-icon-large-width
+app.powerbi.com##.pbi-overlay-y-center.pbi-overlay-x-start.pbi-origin-y-center.pbi-origin-x-end.pbi-overlay-caret-medium.themeableElement.pbi-overlay-caret
+app.powerbi.com###discussInTeamsBtn

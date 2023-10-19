@@ -1,0 +1,65 @@
+@-moz-document url-prefix("https://www.office.com/"), url-prefix("https://make.powerapps.com/"), url-prefix("https://.*\\.powerapps\\.com/.*"), url-prefix("https://make.powerautomate.com/"), url-prefix("https://www.bing.com"), regexp("https://.*\\.sharepoint\\.com/.*"), regexp("https://.*\\.office\\.com/.*"), regexp("https://.*\\.microsoft\\.com/.*"), regexp("https://outlook.office.com/"), regexp("https://.*\\.microsoft365\\.com/.*") {
+.isOD3 .spartanLeftNav_27003e94 {
+    background-color: white;
+    box-shadow: none;
+}
+
+* {
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+    animation-name: none !important;
+    /*font-family: none;*/
+    border-radius: 0 !important;
+    transition-duration: 0s !important;
+}
+
+.columns.has-large-gaps>.column {
+    padding: 1.5rem;
+    width: 100%;
+}
+
+.lia-top-quilt>.lia-quilt-row-main>.lia-quilt-column:first-child {
+    padding-left: 0;
+    width: 100%;
+}
+
+.hp_cont.hpl{
+    padding-top:16px;
+}
+
+.UAnq8.QpyM8 {
+    height: auto;
+}
+
+.navLink_7c3aa882:not(.disabled_7c3aa882):not(.disableIndicator_7c3aa882).navLinkSelected_7c3aa882::after {
+    content: none !important;
+}
+
+.navLink_7c3aa882:not(.disabled_7c3aa882):not(.disableIndicator_7c3aa882)::before {
+    content: none !important;
+}
+
+.isFluentVNext .od-DetailsPane-SecondaryPane-wrapper {
+    background-color: white;
+}
+
+.isOD3 .topBar_1456a2e0 {
+    display: flex;
+    align-items: center;
+    height: auto;
+    margin-top: 0;
+    background-color: white !important;
+}
+
+.od-InfoPane-ReactSections .InfoPane-section {
+    user-select: text;
+}
+}
+
+@-moz-document url-prefix("https://outlook.office.com/") {
+.aVla3 *, .NTPm6, .sYndo * {
+    box-shadow: none !important;
+}
+}

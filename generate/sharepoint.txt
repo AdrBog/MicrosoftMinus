@@ -1,0 +1,26 @@
+! sharepoint.com and onedrive
+sharepoint.com##.sp-appBar
+sharepoint.com##.od-PanelOverlay.ms-ModalOverlay
+sharepoint.com##.m_c_50a7110f.CanvasSection-xl4.CanvasSection--read.CanvasSection-sm12.CanvasSection-col.CanvasSection.i_c_50a7110f.a_c_50a7110f
+sharepoint.com##.ms-CompositeHeader-collapsible.ms-Button--command.ms-Button--action.ms-Button
+sharepoint.com##.navIconButton_106e30f7
+sharepoint.com##.pinContainer_4cf99147
+sharepoint.com##div.navGroup_94cbd27d:nth-of-type(3)
+sharepoint.com##[class*="fileHoverCardCompactCard"]
+sharepoint.com##[class*="fileHoverCardExpandedCard"]
+sharepoint.com##[class*="ms-ExpandingCard-expandedCard"]
+sharepoint.com##[class*="emptyFolderImageContainer"]
+sharepoint.com##.od-ListFavorite-button
+sharepoint.com##.recommendedStrip_b47d1141
+sharepoint.com##.header_fee0972a
+sharepoint.com##.odsp-spartan-cell.field-activity
+sharepoint.com##.headerCell_59727911.headerCell_6b2da62b.odsp-spartan-headerCell.field-activity
+sharepoint.com##.ms-DetailsRow-cellCheck.ms-DetailsRow-cell
+sharepoint.com##.ms-DetailsRow-check
+sharepoint.com##.ms-DetailsHeader-check.ms-DetailsRow-check
+sharepoint.com##.od-DetailsPane-ItemActivityFeedSection
+sharepoint.com##.od-DetailsPane-PrimaryPane-wrapper
+sharepoint.com##.od-DetailsPane-SecondaryPane-header--nonStickyHeaderButton.od-DetailsPane-SecondaryPane-header
+sharepoint.com##.od-DetailsPane-SecondaryPane > div > div > div > div > .od-DetailsPane-SecondaryPane-header
+sharepoint.com##.flexContainer-174.ms-Button-flexContainer
+sharepoint.com##.root-40.ms-CommandBar
