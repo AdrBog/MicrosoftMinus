@@ -1,25 +1,38 @@
-! Microsoft Minus
-! uBlock filter list
-! Updated: 19/10/2023 12:33:35
+! Title: Microsoft Minus - uBlock filter list
+! Last modified: 23/10/2023 14:26:22
+! Description: List of uBlock filters to debloat Microsoft's websites.
+! Homepage: https://github.com/AdrBog/MicrosoftMinus
+! License: https://github.com/AdrBog/MicrosoftMinus/blob/main/LICENSE
+! Credits: Adrian Bogdan - https://github.com/AdrBog
 ! General
-*##.hpyHhmSe9hmk5gopLr9a5Q\=\=
-*##.mectrl_truncate.mectrl_header_text
-*##.undefined.U6Cnfo0RjXJ8UEwXhZV8mQ\=\=
-*###O365_MainLink_Help
-*###TipsNTricksButton
+*###Announcements
 *###GiveFeedbackButton
+*###O365_MainLink_Help
 *###OdbTeachingButton
+*###TipsNTricksButton
+*###appLauncherTop > div > div
 *###emoji-feedback
 *###whatsnew
-*##.feedback-header
-*##.ms-Overlay
-*##.fV7hCdJjpkVA8CTDnFbN2A\=\=
-*##.o365sx-neutral-dark-font.KCPpWCzkSIUJmagfcmfraw\=\=
-*###appLauncherTop > div > div
 *##._1iqPeUTKW2PVCn4zzsABiw\=\=
-*##[class*="minStateDockWFb-" i]
+*##.context-uhf.c-uhff
+*##.expertChatButton
+*##.fV7hCdJjpkVA8CTDnFbN2A\=\=
+*##.feedback-header
+*##.fl-chatbot-button
+*##.hpyHhmSe9hmk5gopLr9a5Q\=\=
+*##.mectrl_truncate.mectrl_header_text
+*##.ms-Overlay
+*##.o365sx-neutral-dark-font.KCPpWCzkSIUJmagfcmfraw\=\=
+*##.proactive-chat.position-fixed.bg-black.p-1.pt-3.text-center
+*##.social-footer-wrap
+*##.undefined.U6Cnfo0RjXJ8UEwXhZV8mQ\=\=
 *##[class*="_UnsolicitedGiveFeedbackButton_"]
 *##[class*="feedbackTabs-"]
+*##[class*="minStateDockWFb-" i]
+*###uhf-g-nav > .js-paddle-items
+*##.share-twitter
+*##.share-linkedin
+*##.share-facebook
 ! https://admin.microsoft.com
 admin.microsoft.com##.root-610.ms-Button--primary.ms-Button
 admin.microsoft.com##.minimize-icon > .minStateIcon-745
@@ -87,22 +100,23 @@ bing.com##.b_wpTabsWrapper
 bing.com###id_mobile
 bing.com##.bnp_cookie_banner
 bing.com##.dimmer.cdxShowConv
-! https://powerusers.microsoft.com and community.fabric.microsoft.com
-*##.lia-quilt-column-side-content.lia-quilt-column-right.lia-quilt-column-08.lia-quilt-column
-*##.bapi-top-bar__menu
-*##.bapi-top-bar__menu--justify-flex-end.bapi-top-bar__menu
-*##[class*="accepted-solutions"]
-*##.lia-discussion-page-sub-section-header.lia-forum-topic-page-solution-count.lia-text
-*##.lia-component-solution-list
-*##.bapi-common-footer
-*###actionMenuDropDown > .lia-menu-navigation > .dropdown-default-item > .lia-link-navigation.lia-js-click-menu.default-menu-option.lia-js-menu-opener
-*##.lia-component-menu-bar.top-block.lia-menu-bar-top.lia-menu-bar
-*##.lia-component-quilt-header.lia-quilt-layout-header.lia-quilt-header.lia-quilt
-*##.lia-component-topic-message.lia-forum-topic-page-gte-5-pager.lia-menu-bar-bottom.lia-menu-bar
-*##.all-user-tags
-*##.LabelsList > .lia-list-standard-inline
-*##.lia-user-rank-icon
-*##.lia-message-author-rank
+! Any forum Microsoft have
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-quilt-column-side-content.lia-quilt-column-right.lia-quilt-column-08.lia-quilt-column
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.bapi-top-bar__menu
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.bapi-top-bar__menu--justify-flex-end.bapi-top-bar__menu
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##[class*="accepted-solutions"]
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-discussion-page-sub-section-header.lia-forum-topic-page-solution-count.lia-text
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-component-solution-list
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.bapi-common-footer
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com###actionMenuDropDown > .lia-menu-navigation > .dropdown-default-item > .lia-link-navigation.lia-js-click-menu.default-menu-option.lia-js-menu-opener
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-component-menu-bar.top-block.lia-menu-bar-top.lia-menu-bar
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-component-quilt-header.lia-quilt-layout-header.lia-quilt-header.lia-quilt
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-component-topic-message.lia-forum-topic-page-gte-5-pager.lia-menu-bar-bottom.lia-menu-bar
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.all-user-tags
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.LabelsList > .lia-list-standard-inline
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-user-rank-icon
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-message-author-rank
+answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com###threadRightColumnContainer
 ! https://forms.office.com
 forms.office.com##.-mb-176
 ! https://learn.microsoft.com
@@ -117,16 +131,20 @@ learn.microsoft.com##.is-one-quarter-desktop.is-one-third-tablet.column.is-hidde
 learn.microsoft.com##.not-authenticated.auth-status-determined.docs-sign-in
 learn.microsoft.com###user-feedback > .button-primary.button-clear.button-sm.button
 learn.microsoft.com##.display-none-print.contributors-holder
+! https://news.microsoft.com
+news.microsoft.com##section:nth-of-type(2)
 ! https://www.office.com
-www.office.com###O365_MainLink_Help
-www.office.com###recommended
-www.office.com##.hpyHhmSe9hmk5gopLr9a5Q\=\=
-www.office.com##.welcome__title--fluent.ms-fcl-nd.welcome__title.ms-fontWeight-light
-www.office.com###\32 6706956-2AAE-4A22-8960-09B98C35B28C
-www.office.com###\32 61d33d6-15ba-4e1d-b298-8096960fab40
-www.office.com###F57D5D29-4967-495C-A648-F7AB66BF8572
-www.office.com##.PivotsControl-module__tab-list__header__add-tab-button__1PSwT.css-97.root-32.ms-Icon
-www.office.com##.PivotsControl-module__tab-list__header__pills__-cUq0.PivotsControl-module__tab-list__header__tabs__1sJbM
+microsoft365.com,office.com###O365_MainLink_Help
+microsoft365.com,office.com###recommended
+microsoft365.com,office.com##.hpyHhmSe9hmk5gopLr9a5Q\=\=
+microsoft365.com,office.com##.welcome__title--fluent.ms-fcl-nd.welcome__title.ms-fontWeight-light
+microsoft365.com,office.com###\32 6706956-2AAE-4A22-8960-09B98C35B28C
+microsoft365.com,office.com###\32 61d33d6-15ba-4e1d-b298-8096960fab40
+microsoft365.com,office.com###F57D5D29-4967-495C-A648-F7AB66BF8572
+microsoft365.com,office.com##.PivotsControl-module__tab-list__header__add-tab-button__1PSwT.css-97.root-32.ms-Icon
+microsoft365.com,office.com##.PivotsControl-module__tab-list__header__pills__-cUq0.PivotsControl-module__tab-list__header__tabsmicrosoft365.com,__1sJbM
+microsoft365.com,office.com##.AppBarComponent-module__left-nav-container__7RW6U.ms-bgc-nla
+microsoft365.com,office.com##.appbar-placeholder.ms-bgc-d
 ! https://outlook.office.com
 outlook.office.com##.o365sx-button.R3CoF.Wpyud
 outlook.office.com##.nUPgy
@@ -160,7 +178,7 @@ outlook.office.com##.DPSja
 outlook.office.com##.AZjDG
 outlook.office.com##.PtVAk.th6py
 outlook.office.com##.yI80M
-! https://*.powerapps.com
+! https://powerapps.com
 powerapps.com##.css-284.ms-Stack > .css-296.ms-StackItem > .root-305.ms-Link
 powerapps.com##.css-389.ms-Stack > .css-401.ms-StackItem > .root-410.ms-Link
 powerapps.com##[class*="homePageHero-" i]
@@ -179,14 +197,14 @@ powerapps.com##.root-350.commandBar_share.ms-CommandBarItem-link.ms-Button--comm
 powerapps.com##.root-328.commandBar_appChecker.ms-CommandBarItem-link.ms-Button--commandBar.ms-Buttonn
 powerapps.com###control-sidebar-header-tooltip > div
 ! https://make.powerautomate.com
-make.powerautomate.com###O365_MainLink_Help
-make.powerautomate.com##.root-418.ms-Link
-make.powerautomate.com##[class*="fl-ExploreCollections"]
-make.powerautomate.com##[class*="fl-BlogCollections"]
-make.powerautomate.com##[class*="fl-footer"]
-make.powerautomate.com##[class*="fl-LearnCollections"]
-make.powerautomate.com##.root-322
-make.powerautomate.com##.root-239.ms-Button--icon.ms-Button
+powerautomate.com###O365_MainLink_Help
+powerautomate.com##.root-418.ms-Link
+powerautomate.com##[class*="fl-ExploreCollections"]
+powerautomate.com##[class*="fl-BlogCollections"]
+powerautomate.com##[class*="fl-footer"]
+powerautomate.com##[class*="fl-LearnCollections"]
+powerautomate.com##.root-322
+powerautomate.com##.root-239.ms-Button--icon.ms-Button
 ! https://app.powerbi.com
 app.powerbi.com##.search-box
 app.powerbi.com##trident-help-menu-button

@@ -1,10 +1,12 @@
 ! https://www.office.com
-www.office.com###O365_MainLink_Help
-www.office.com###recommended
-www.office.com##.hpyHhmSe9hmk5gopLr9a5Q\=\=
-www.office.com##.welcome__title--fluent.ms-fcl-nd.welcome__title.ms-fontWeight-light
-www.office.com###\32 6706956-2AAE-4A22-8960-09B98C35B28C
-www.office.com###\32 61d33d6-15ba-4e1d-b298-8096960fab40
-www.office.com###F57D5D29-4967-495C-A648-F7AB66BF8572
-www.office.com##.PivotsControl-module__tab-list__header__add-tab-button__1PSwT.css-97.root-32.ms-Icon
-www.office.com##.PivotsControl-module__tab-list__header__pills__-cUq0.PivotsControl-module__tab-list__header__tabs__1sJbM
+microsoft365.com,office.com###O365_MainLink_Help
+microsoft365.com,office.com###recommended
+microsoft365.com,office.com##.hpyHhmSe9hmk5gopLr9a5Q\=\=
+microsoft365.com,office.com##.welcome__title--fluent.ms-fcl-nd.welcome__title.ms-fontWeight-light
+microsoft365.com,office.com###\32 6706956-2AAE-4A22-8960-09B98C35B28C
+microsoft365.com,office.com###\32 61d33d6-15ba-4e1d-b298-8096960fab40
+microsoft365.com,office.com###F57D5D29-4967-495C-A648-F7AB66BF8572
+microsoft365.com,office.com##.PivotsControl-module__tab-list__header__add-tab-button__1PSwT.css-97.root-32.ms-Icon
+microsoft365.com,office.com##.PivotsControl-module__tab-list__header__pills__-cUq0.PivotsControl-module__tab-list__header__tabsmicrosoft365.com,__1sJbM
+microsoft365.com,office.com##.AppBarComponent-module__left-nav-container__7RW6U.ms-bgc-nla
+microsoft365.com,office.com##.appbar-placeholder.ms-bgc-d

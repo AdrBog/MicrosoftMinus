@@ -1,4 +1,4 @@
-! https://*.powerapps.com
+! https://powerapps.com
 powerapps.com##.css-284.ms-Stack > .css-296.ms-StackItem > .root-305.ms-Link
 powerapps.com##.css-389.ms-Stack > .css-401.ms-StackItem > .root-410.ms-Link
 powerapps.com##[class*="homePageHero-" i]

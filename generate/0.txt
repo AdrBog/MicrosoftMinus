@@ -1,19 +1,29 @@
 ! General
-*##.hpyHhmSe9hmk5gopLr9a5Q\=\=
-*##.mectrl_truncate.mectrl_header_text
-*##.undefined.U6Cnfo0RjXJ8UEwXhZV8mQ\=\=
-*###O365_MainLink_Help
-*###TipsNTricksButton
+*###Announcements
 *###GiveFeedbackButton
+*###O365_MainLink_Help
 *###OdbTeachingButton
+*###TipsNTricksButton
+*###appLauncherTop > div > div
 *###emoji-feedback
 *###whatsnew
-*##.feedback-header
-*##.ms-Overlay
-*##.fV7hCdJjpkVA8CTDnFbN2A\=\=
-*##.o365sx-neutral-dark-font.KCPpWCzkSIUJmagfcmfraw\=\=
-*###appLauncherTop > div > div
 *##._1iqPeUTKW2PVCn4zzsABiw\=\=
-*##[class*="minStateDockWFb-" i]
+*##.context-uhf.c-uhff
+*##.expertChatButton
+*##.fV7hCdJjpkVA8CTDnFbN2A\=\=
+*##.feedback-header
+*##.fl-chatbot-button
+*##.hpyHhmSe9hmk5gopLr9a5Q\=\=
+*##.mectrl_truncate.mectrl_header_text
+*##.ms-Overlay
+*##.o365sx-neutral-dark-font.KCPpWCzkSIUJmagfcmfraw\=\=
+*##.proactive-chat.position-fixed.bg-black.p-1.pt-3.text-center
+*##.social-footer-wrap
+*##.undefined.U6Cnfo0RjXJ8UEwXhZV8mQ\=\=
 *##[class*="_UnsolicitedGiveFeedbackButton_"]
 *##[class*="feedbackTabs-"]
+*##[class*="minStateDockWFb-" i]
+*###uhf-g-nav > .js-paddle-items
+*##.share-twitter
+*##.share-linkedin
+*##.share-facebook
