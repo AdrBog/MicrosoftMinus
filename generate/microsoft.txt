@@ -1,0 +1,13 @@
+! microsoft.com
+microsoft.com##.share-twitter
+microsoft.com##.share-linkedin
+microsoft.com##.share-facebook
+microsoft.com##.medium-offset-1.medium-3.column
+microsoft.com##.bapi-hide-until-large.bapi-dropdown.bapi-menu
+microsoft.com###row-of-tags
+microsoft.com##.post-share
+microsoft.com##.bapi-common-footer
+microsoft.com##li.common-nav__menu-item.common-nav-item--default.common-nav-item > div
+microsoft.com##.block-page-banner__container
+microsoft.com##.common-footnotes
+microsoft.com##.block-container--compact.block-container--reduced-padding.block-container--reduced-radius.block-container--has-inner-background.block-container

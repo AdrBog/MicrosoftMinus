@@ -1,4 +1,6 @@
 ! bing.com
+||bing.com/rp/YoxoHAdzasHXh5FEt4DUMO680Fo.jpg$image
+||bing.com/rp/TiwcBG63C_yJCFXCo8TEjuMLduY.jpg$image
 bing.com##.cdxPrompt
 bing.com##.bottom_row
 bing.com###id_rh
@@ -61,3 +63,4 @@ bing.com##.b_wpTabsWrapper
 bing.com###id_mobile
 bing.com##.bnp_cookie_banner
 bing.com##.dimmer.cdxShowConv
+bing.com###b_pole

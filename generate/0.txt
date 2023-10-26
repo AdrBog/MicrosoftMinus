@@ -24,6 +24,4 @@
 *##[class*="feedbackTabs-"]
 *##[class*="minStateDockWFb-" i]
 *###uhf-g-nav > .js-paddle-items
-*##.share-twitter
-*##.share-linkedin
-*##.share-facebook
+*##.social-media__wrapper

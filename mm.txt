@@ -1,5 +1,5 @@
 ! Title: Microsoft Minus - uBlock filter list
-! Last modified: 23/10/2023 14:26:22
+! Last modified: 26/10/2023 10:09:55
 ! Description: List of uBlock filters to debloat Microsoft's websites.
 ! Homepage: https://github.com/AdrBog/MicrosoftMinus
 ! License: https://github.com/AdrBog/MicrosoftMinus/blob/main/LICENSE
@@ -30,14 +30,14 @@
 *##[class*="feedbackTabs-"]
 *##[class*="minStateDockWFb-" i]
 *###uhf-g-nav > .js-paddle-items
-*##.share-twitter
-*##.share-linkedin
-*##.share-facebook
+*##.social-media__wrapper
 ! https://admin.microsoft.com
 admin.microsoft.com##.root-610.ms-Button--primary.ms-Button
 admin.microsoft.com##.minimize-icon > .minStateIcon-745
 admin.microsoft.com##.minimize-icon
 ! bing.com
+||bing.com/rp/YoxoHAdzasHXh5FEt4DUMO680Fo.jpg$image
+||bing.com/rp/TiwcBG63C_yJCFXCo8TEjuMLduY.jpg$image
 bing.com##.cdxPrompt
 bing.com##.bottom_row
 bing.com###id_rh
@@ -100,6 +100,7 @@ bing.com##.b_wpTabsWrapper
 bing.com###id_mobile
 bing.com##.bnp_cookie_banner
 bing.com##.dimmer.cdxShowConv
+bing.com###b_pole
 ! Any forum Microsoft have
 answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-quilt-column-side-content.lia-quilt-column-right.lia-quilt-column-08.lia-quilt-column
 answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.bapi-top-bar__menu
@@ -131,6 +132,19 @@ learn.microsoft.com##.is-one-quarter-desktop.is-one-third-tablet.column.is-hidde
 learn.microsoft.com##.not-authenticated.auth-status-determined.docs-sign-in
 learn.microsoft.com###user-feedback > .button-primary.button-clear.button-sm.button
 learn.microsoft.com##.display-none-print.contributors-holder
+! microsoft.com
+microsoft.com##.share-twitter
+microsoft.com##.share-linkedin
+microsoft.com##.share-facebook
+microsoft.com##.medium-offset-1.medium-3.column
+microsoft.com##.bapi-hide-until-large.bapi-dropdown.bapi-menu
+microsoft.com###row-of-tags
+microsoft.com##.post-share
+microsoft.com##.bapi-common-footer
+microsoft.com##li.common-nav__menu-item.common-nav-item--default.common-nav-item > div
+microsoft.com##.block-page-banner__container
+microsoft.com##.common-footnotes
+microsoft.com##.block-container--compact.block-container--reduced-padding.block-container--reduced-radius.block-container--has-inner-background.block-container
 ! https://news.microsoft.com
 news.microsoft.com##section:nth-of-type(2)
 ! https://www.office.com
@@ -196,6 +210,7 @@ powerapps.com##.root-328.commandBar_comments.ms-CommandBarItem-link.ms-Button--c
 powerapps.com##.root-350.commandBar_share.ms-CommandBarItem-link.ms-Button--commandBar.ms-Button
 powerapps.com##.root-328.commandBar_appChecker.ms-CommandBarItem-link.ms-Button--commandBar.ms-Buttonn
 powerapps.com###control-sidebar-header-tooltip > div
+
 ! https://make.powerautomate.com
 powerautomate.com###O365_MainLink_Help
 powerautomate.com##.root-418.ms-Link
