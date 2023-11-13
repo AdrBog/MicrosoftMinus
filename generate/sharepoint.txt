@@ -1,4 +1,4 @@
-! sharepoint.com and onedrive
+! sharepoint.com (and onedrive)
 sharepoint.com##.sp-appBar
 sharepoint.com##.od-PanelOverlay.ms-ModalOverlay
 sharepoint.com##.m_c_50a7110f.CanvasSection-xl4.CanvasSection--read.CanvasSection-sm12.CanvasSection-col.CanvasSection.i_c_50a7110f.a_c_50a7110f

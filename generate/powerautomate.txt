@@ -1,9 +1,11 @@
-! https://make.powerautomate.com
+! powerautomate.com
 powerautomate.com###O365_MainLink_Help
 powerautomate.com##.root-418.ms-Link
 powerautomate.com##[class*="fl-ExploreCollections"]
 powerautomate.com##[class*="fl-BlogCollections"]
 powerautomate.com##[class*="fl-footer"]
 powerautomate.com##[class*="fl-LearnCollections"]
+powerautomate.com##[class*="fl-chatbot-button"]
 powerautomate.com##.root-322
 powerautomate.com##.root-239.ms-Button--icon.ms-Button
+powerautomate.com##.fl-Announcement

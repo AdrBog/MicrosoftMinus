@@ -1,4 +1,4 @@
-! https://learn.microsoft.com
+! learn.microsoft.com
 learn.microsoft.com##.display-block-desktop.display-none.is-4-desktop.column.right-container
 learn.microsoft.com###banner-holder
 learn.microsoft.com###cookie-consent-holder

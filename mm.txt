@@ -1,5 +1,5 @@
 ! Title: Microsoft Minus - uBlock filter list
-! Last modified: 03/11/2023 11:03:02
+! Last modified: 13/11/2023 12:37:00
 ! Description: List of uBlock filters to debloat Microsoft's websites.
 ! Homepage: https://github.com/AdrBog/MicrosoftMinus
 ! License: https://github.com/AdrBog/MicrosoftMinus/blob/main/LICENSE
@@ -31,7 +31,7 @@
 *##[class*="minStateDockWFb-" i]
 *###uhf-g-nav > .js-paddle-items
 *##.social-media__wrapper
-! https://admin.microsoft.com
+! admin.microsoft.com
 admin.microsoft.com##.root-610.ms-Button--primary.ms-Button
 admin.microsoft.com##.minimize-icon > .minStateIcon-745
 admin.microsoft.com##.minimize-icon
@@ -118,9 +118,9 @@ answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.
 answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-user-rank-icon
 answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com##.lia-message-author-rank
 answers.microsoft.com,community.fabric.microsoft.com,powerusers.microsoft.com###threadRightColumnContainer
-! https://forms.office.com
+! forms.office.com
 forms.office.com##.-mb-176
-! https://learn.microsoft.com
+! learn.microsoft.com
 learn.microsoft.com##.display-block-desktop.display-none.is-4-desktop.column.right-container
 learn.microsoft.com###banner-holder
 learn.microsoft.com###cookie-consent-holder
@@ -146,9 +146,13 @@ microsoft.com##.block-page-banner__container
 microsoft.com##.common-footnotes
 microsoft.com##.block-container--compact.block-container--reduced-padding.block-container--reduced-radius.block-container--has-inner-background.block-container
 microsoft.com##[class*="tabHelp-"]
-! https://news.microsoft.com
+microsoft.com##.bg-blue.depth-8-dark.rounded-lg.m-0.list-unstyled
+microsoft.com##.contact-widget
+microsoft.com##[class*="announcement-banner"]
+microsoft.com##[class*="sticky"]
+! news.microsoft.com
 news.microsoft.com##section:nth-of-type(2)
-! https://www.office.com
+! office.com and microsoft365.com
 microsoft365.com,office.com###O365_MainLink_Help
 microsoft365.com,office.com###recommended
 microsoft365.com,office.com##.hpyHhmSe9hmk5gopLr9a5Q\=\=
@@ -160,7 +164,7 @@ microsoft365.com,office.com##.PivotsControl-module__tab-list__header__add-tab-bu
 microsoft365.com,office.com##.PivotsControl-module__tab-list__header__pills__-cUq0.PivotsControl-module__tab-list__header__tabsmicrosoft365.com,__1sJbM
 microsoft365.com,office.com##.AppBarComponent-module__left-nav-container__7RW6U.ms-bgc-nla
 microsoft365.com,office.com##.appbar-placeholder.ms-bgc-d
-! https://outlook.office.com
+! outlook.office.com
 outlook.office.com##.o365sx-button.R3CoF.Wpyud
 outlook.office.com##.nUPgy
 outlook.office.com###owaNoteFeedButton
@@ -193,9 +197,8 @@ outlook.office.com##.DPSja
 outlook.office.com##.AZjDG
 outlook.office.com##.PtVAk.th6py
 outlook.office.com##.yI80M
-! https://powerapps.com
-powerapps.com##.css-284.ms-Stack > .css-296.ms-StackItem > .root-305.ms-Link
-powerapps.com##.css-389.ms-Stack > .css-401.ms-StackItem > .root-410.ms-Link
+! powerapps.com
+powerapps.com##.css-270.ms-Stack > .css-282.ms-StackItem > .root-291.ms-Link
 powerapps.com##[class*="homePageHero-" i]
 powerapps.com##[class*="homePageLearning-" i]
 powerapps.com##.root-292.ms-Button--icon.ms-Button
@@ -211,17 +214,20 @@ powerapps.com##.root-328.commandBar_comments.ms-CommandBarItem-link.ms-Button--c
 powerapps.com##.root-350.commandBar_share.ms-CommandBarItem-link.ms-Button--commandBar.ms-Button
 powerapps.com##.root-328.commandBar_appChecker.ms-CommandBarItem-link.ms-Button--commandBar.ms-Buttonn
 powerapps.com###control-sidebar-header-tooltip > div
-
-! https://make.powerautomate.com
+powerapps.com##:xpath(//div[contains(@title, 'virtual')])
+powerapps.com##:xpath(//ul/span[contains(@class, 'footerSection')])
+! powerautomate.com
 powerautomate.com###O365_MainLink_Help
 powerautomate.com##.root-418.ms-Link
 powerautomate.com##[class*="fl-ExploreCollections"]
 powerautomate.com##[class*="fl-BlogCollections"]
 powerautomate.com##[class*="fl-footer"]
 powerautomate.com##[class*="fl-LearnCollections"]
+powerautomate.com##[class*="fl-chatbot-button"]
 powerautomate.com##.root-322
 powerautomate.com##.root-239.ms-Button--icon.ms-Button
-! https://app.powerbi.com
+powerautomate.com##.fl-Announcement
+! app.powerbi.com
 app.powerbi.com##.search-box
 app.powerbi.com##trident-help-menu-button
 app.powerbi.com##trident-feedback-menu-button.ng-star-inserted
@@ -234,7 +240,7 @@ app.powerbi.com##._1LqwPht968HBP6AHLHy1eC.WZU7V9oIIK8RVJ365jJHp.o365cs-base
 app.powerbi.com##.o365-icon-large-width
 app.powerbi.com##.pbi-overlay-y-center.pbi-overlay-x-start.pbi-origin-y-center.pbi-origin-x-end.pbi-overlay-caret-medium.themeableElement.pbi-overlay-caret
 app.powerbi.com###discussInTeamsBtn
-! sharepoint.com and onedrive
+! sharepoint.com (and onedrive)
 sharepoint.com##.sp-appBar
 sharepoint.com##.od-PanelOverlay.ms-ModalOverlay
 sharepoint.com##.m_c_50a7110f.CanvasSection-xl4.CanvasSection--read.CanvasSection-sm12.CanvasSection-col.CanvasSection.i_c_50a7110f.a_c_50a7110f
@@ -260,8 +266,8 @@ sharepoint.com##.od-DetailsPane-SecondaryPane-header--nonStickyHeaderButton.od-D
 sharepoint.com##.od-DetailsPane-SecondaryPane > div > div > div > div > .od-DetailsPane-SecondaryPane-header
 sharepoint.com##.flexContainer-174.ms-Button-flexContainer
 sharepoint.com##.root-40.ms-CommandBar
-! https://tasks.office.com
+! tasks.office.com
 tasks.office.com##.css-130.footer
-! https://teams.microsoft.com
+! teams.microsoft.com
 teams.microsoft.com##.toast-bottom-right
 teams.microsoft.com##app-bar-help-button

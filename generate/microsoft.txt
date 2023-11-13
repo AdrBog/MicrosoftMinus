@@ -12,3 +12,7 @@ microsoft.com##.block-page-banner__container
 microsoft.com##.common-footnotes
 microsoft.com##.block-container--compact.block-container--reduced-padding.block-container--reduced-radius.block-container--has-inner-background.block-container
 microsoft.com##[class*="tabHelp-"]
+microsoft.com##.bg-blue.depth-8-dark.rounded-lg.m-0.list-unstyled
+microsoft.com##.contact-widget
+microsoft.com##[class*="announcement-banner"]
+microsoft.com##[class*="sticky"]

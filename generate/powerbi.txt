@@ -1,4 +1,4 @@
-! https://app.powerbi.com
+! app.powerbi.com
 app.powerbi.com##.search-box
 app.powerbi.com##trident-help-menu-button
 app.powerbi.com##trident-feedback-menu-button.ng-star-inserted

@@ -1,4 +1,4 @@
-! https://www.office.com
+! office.com and microsoft365.com
 microsoft365.com,office.com###O365_MainLink_Help
 microsoft365.com,office.com###recommended
 microsoft365.com,office.com##.hpyHhmSe9hmk5gopLr9a5Q\=\=

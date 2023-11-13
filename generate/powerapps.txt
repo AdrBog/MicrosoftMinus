@@ -1,6 +1,5 @@
-! https://powerapps.com
-powerapps.com##.css-284.ms-Stack > .css-296.ms-StackItem > .root-305.ms-Link
-powerapps.com##.css-389.ms-Stack > .css-401.ms-StackItem > .root-410.ms-Link
+! powerapps.com
+powerapps.com##.css-270.ms-Stack > .css-282.ms-StackItem > .root-291.ms-Link
 powerapps.com##[class*="homePageHero-" i]
 powerapps.com##[class*="homePageLearning-" i]
 powerapps.com##.root-292.ms-Button--icon.ms-Button
@@ -16,3 +15,5 @@ powerapps.com##.root-328.commandBar_comments.ms-CommandBarItem-link.ms-Button--c
 powerapps.com##.root-350.commandBar_share.ms-CommandBarItem-link.ms-Button--commandBar.ms-Button
 powerapps.com##.root-328.commandBar_appChecker.ms-CommandBarItem-link.ms-Button--commandBar.ms-Buttonn
 powerapps.com###control-sidebar-header-tooltip > div
+powerapps.com##:xpath(//div[contains(@title, 'virtual')])
+powerapps.com##:xpath(//ul/span[contains(@class, 'footerSection')])
