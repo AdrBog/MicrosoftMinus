@@ -98,11 +98,6 @@
     content: none !important;
 }
 
-[role]{
-    background-color: transparent;
-    color: black;
-}
-
 main{
     background-color: transparent !important;
     color: black;
