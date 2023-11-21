@@ -29,10 +29,6 @@
     padding-top:16px;
 }
 
-.UAnq8.QpyM8 {
-    height: auto;
-}
-
 .navLink_7c3aa882:not(.disabled_7c3aa882):not(.disableIndicator_7c3aa882).navLinkSelected_7c3aa882::after {
     content: none !important;
 }
@@ -60,11 +56,21 @@
 #officeHome__container.appbar-offset {
     left: 0;
 }
+
+#spartan-left-nav [class*="navLowerContainer"] *{
+    height: auto;
+    padding: 0;
+}
 }
 
 @-moz-document url-prefix("https://outlook.office.com/") {
-.aVla3 *, .NTPm6, .sYndo * {
+#mainApp *:not(.splitPrimaryButton, .ms-Button--primary){
+    background-color:transparent;
     box-shadow: none !important;
+}
+
+#LeftRail *{
+    height: auto;
 }
 
 *:not([role="dialog"] > div), #mectrl_main_body {
@@ -76,5 +82,29 @@
     /*font-family: none;*/
     border-radius: 0 !important;
     transition-duration: 0s !important;
+}
+
+.UAnq8.QpyM8 {
+    height: auto;
+}
+}
+
+@-moz-document url-prefix("https://make.powerautomate.com/"), regexp("https://.*\\.powerapps\\.com/.*") {
+.ms-StackItem *{
+    height: auto;
+}
+
+.ms-StackItem *:before{
+    content: none !important;
+}
+
+[role]{
+    background-color: transparent;
+    color: black;
+}
+
+main{
+    background-color: transparent !important;
+    color: black;
 }
 }

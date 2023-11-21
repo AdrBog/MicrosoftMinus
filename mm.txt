@@ -1,5 +1,5 @@
 ! Title: Microsoft Minus - uBlock filter list
-! Last modified: 14/11/2023 09:02:36
+! Last modified: 21/11/2023 12:21:20
 ! Description: List of uBlock filters to debloat Microsoft's websites.
 ! Homepage: https://github.com/AdrBog/MicrosoftMinus
 ! License: https://github.com/AdrBog/MicrosoftMinus/blob/main/LICENSE
