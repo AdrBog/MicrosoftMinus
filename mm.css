@@ -1,4 +1,4 @@
-@-moz-document url-prefix("https://www.office.com/"), url-prefix("https://make.powerapps.com/"), url-prefix("https://.*\\.powerapps\\.com/.*"), url-prefix("https://make.powerautomate.com/"), url-prefix("https://www.bing.com"), regexp("https://.*\\.sharepoint\\.com/.*"), regexp("https://.*\\.office\\.com/.*"), regexp("https://.*\\.microsoft\\.com/.*"), regexp("https://outlook.office.com/"), regexp("https://.*\\.microsoft365\\.com/.*") {
+@-moz-document url-prefix("https://www.office.com/"), url-prefix("https://make.powerapps.com/"), url-prefix("https://.*\\.powerapps\\.com/.*"), url-prefix("https://make.powerautomate.com/"), url-prefix("https://www.bing.com"), regexp("https://.*\\.sharepoint\\.com/.*"), regexp("https:\\/\\/(?!outlook).*\\.office\\.com\\/.*"), regexp("https://.*\\.microsoft\\.com/.*"), regexp("https://.*\\.microsoft365\\.com/.*") {
 .isOD3 .spartanLeftNav_27003e94 {
     background-color: white;
     box-shadow: none;
@@ -9,7 +9,7 @@
     -moz-transition: none !important;
     -o-transition: none !important;
     transition: none !important;
-    animation-name: none !important;
+    animation: none!important;
     /*font-family: none;*/
     border-radius: 0 !important;
     transition-duration: 0s !important;
@@ -56,10 +56,25 @@
 .od-InfoPane-ReactSections .InfoPane-section {
     user-select: text;
 }
+
+#officeHome__container.appbar-offset {
+    left: 0;
+}
 }
 
 @-moz-document url-prefix("https://outlook.office.com/") {
 .aVla3 *, .NTPm6, .sYndo * {
     box-shadow: none !important;
+}
+
+*:not([role="dialog"] > div), #mectrl_main_body {
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+    animation: none!important;
+    /*font-family: none;*/
+    border-radius: 0 !important;
+    transition-duration: 0s !important;
 }
 }
