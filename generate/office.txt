@@ -10,3 +10,5 @@ microsoft365.com,office.com##.PivotsControl-module__tab-list__header__add-tab-bu
 microsoft365.com,office.com##.PivotsControl-module__tab-list__header__pills__-cUq0.PivotsControl-module__tab-list__header__tabsmicrosoft365.com,__1sJbM
 microsoft365.com,office.com##.AppBarComponent-module__left-nav-container__7RW6U.ms-bgc-nla
 microsoft365.com,office.com##.appbar-placeholder.ms-bgc-d
+microsoft365.com,office.com##.obf-Visible.obf-Toast
+microsoft365.com,office.com###obf-ToastContainer
