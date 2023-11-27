@@ -3,6 +3,11 @@
 *###GiveFeedbackButton
 *###O365_MainLink_Help
 *###OdbTeachingButton
+*###gatecrashSurvey
+*##[id*="Survey"]
+*##[id*="survey"]
+*##[class*="Survey"]
+*##[class*="survey"]
 *###TipsNTricksButton
 *###appLauncherTop > div > div
 *###emoji-feedback
