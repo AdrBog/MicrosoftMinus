@@ -30,3 +30,4 @@
 *##[class*="minStateDockWFb-" i]
 *###uhf-g-nav > .js-paddle-items
 *##.social-media__wrapper
+*##.desktop-only.share-widget
